@@ -1,3 +1,15 @@
+dehydrated (0.3.1-1ubuntu1~unstable~ppa3) unstable; urgency=medium
+
+  * Bump version.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Tue, 27 Sep 2016 13:38:36 +0800
+
+dehydrated (0.3.1-1ubuntu1~unstable~ppa2) unstable; urgency=medium
+
+  * Filename fix.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Tue, 27 Sep 2016 13:07:54 +0800
+
 dehydrated (0.3.1-1ubuntu1~unstable~ppa1) unstable; urgency=medium
 
   * Packaging 0.3.1.
