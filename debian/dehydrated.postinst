@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [[ "xinstall" = "x$1" || "xupgrade" = "x$1" ]]; then
+    mkdir -p /etc/dehydrated > /dev/null 2>&1
+    if [[ ! -e /etc/dehydrated/config ]]; then
+        touch /etc/dehydrated/config
+    fi
+fi
