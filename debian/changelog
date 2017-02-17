@@ -1,3 +1,9 @@
+dehydrated (0.3.1-1ubuntu1~unstable~ppa4) unstable; urgency=medium
+
+  * Create /etc/dehydrated/config.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sat, 10 Dec 2016 03:10:19 +0800
+
 dehydrated (0.3.1-1ubuntu1~unstable~ppa3) unstable; urgency=medium
 
   * Bump version.
