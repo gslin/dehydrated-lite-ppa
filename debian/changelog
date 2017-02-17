@@ -1,3 +1,9 @@
+dehydrated (0.4.0-0ubuntu1~unstable~ppa1) unstable; urgency=medium
+
+  * Packaging 0.4.0.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Fri, 17 Feb 2017 22:36:20 +0800
+
 dehydrated (0.3.1-1ubuntu1~unstable~ppa4) unstable; urgency=medium
 
   * Create /etc/dehydrated/config.
