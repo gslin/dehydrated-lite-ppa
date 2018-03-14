@@ -2,10 +2,10 @@ Source: dehydrated
 Section: utils
 Priority: optional
 Maintainer: Gea-Suan Lin (PPA) <gslin@gslin.org>
-Build-Depends: debhelper (>= 8.0.0)
-Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.7
 Homepage: https://dehydrated.de/
-Vcs-Git: git@github.com:lukas2511/dehydrated.git
+Vcs-Git: https://github.com/lukas2511/dehydrated.git
 Vcs-Browser: https://github.com/lukas2511/dehydrated
 
 Package: dehydrated

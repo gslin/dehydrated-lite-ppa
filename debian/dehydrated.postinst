@@ -6,3 +6,5 @@ if [[ "xinstall" = "x$1" || "xupgrade" = "x$1" ]]; then
         touch /etc/dehydrated/config
     fi
 fi
+
+#DEBHELPER#
