@@ -1,4 +1,4 @@
-Source: dehydrated
+Source: dehydrated-lite
 Section: utils
 Priority: optional
 Maintainer: Gea-Suan Lin (PPA) <gslin@gslin.org>
@@ -8,7 +8,7 @@ Homepage: https://dehydrated.de/
 Vcs-Git: https://github.com/lukas2511/dehydrated.git
 Vcs-Browser: https://github.com/lukas2511/dehydrated
 
-Package: dehydrated
+Package: dehydrated-lite
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, curl, openssl, sed
 Description: letsencrypt/acme client implemented as a shell-script.
