@@ -1,3 +1,9 @@
+dehydrated-lite (0.6.2.20180427.b5dddd7-0ubuntu1~unstable~ppa1) unstable; urgency=medium
+
+  * Packaging 0.6.2.b5dddd7.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Thu, 10 May 2018 02:53:54 +0800
+
 dehydrated-lite (0.6.2-0ubuntu1~unstable~ppa1) unstable; urgency=medium
 
   * Packaging 0.6.2.
