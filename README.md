@@ -13,5 +13,4 @@ In Ubuntu system:
 ## Links
 
 * https://dehydrated.io/
-* https://github.com/lukas2511/dehydrated
-* https://github.com/lukas2511/letsencrypt.sh
+* https://github.com/dehydrated-io/dehydrated
