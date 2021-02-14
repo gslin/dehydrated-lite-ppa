@@ -9,7 +9,7 @@ Vcs-Git: https://github.com/lukas2511/dehydrated.git
 Vcs-Browser: https://github.com/lukas2511/dehydrated
 
 Package: dehydrated-lite
-Architecture: any
+Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, curl, openssl, sed
 Description: letsencrypt/acme client implemented as a shell-script.
  A client for signing certificates with an ACME-server (currently only provided

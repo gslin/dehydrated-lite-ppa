@@ -1,3 +1,9 @@
+dehydrated-lite (0.7.0.20200928.26660e1-unstable~ppa2) unstable; urgency=medium
+
+  * Change architecture from any to all.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 14 Feb 2021 08:57:06 +0800
+
 dehydrated-lite (0.7.0.20200928.26660e1-unstable~ppa1) unstable; urgency=medium
 
   * Packaging 0.7.0.20200928.26660e1.
