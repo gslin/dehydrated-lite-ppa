@@ -1,3 +1,9 @@
+dehydrated-lite (0.7.0.20200928.26660e1-unstable~ppa1) unstable; urgency=medium
+
+  * Packaging 0.7.0.20200928.26660e1.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 14 Feb 2021 07:33:37 +0800
+
 dehydrated-lite (0.6.5.20200928.8ddead4-unstable~ppa1) unstable; urgency=medium
 
   * Packaging 0.6.5.20200928.8ddead4.
