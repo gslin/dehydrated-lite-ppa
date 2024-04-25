@@ -1,3 +1,9 @@
+dehydrated-lite (0.7.0.20210214.26660e1-unstable~ppa1) unstable; urgency=medium
+
+  * Use correct date as version.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 14 Feb 2021 09:03:35 +0800
+
 dehydrated-lite (0.7.0.20200928.26660e1-unstable~ppa2) unstable; urgency=medium
 
   * Change architecture from any to all.
